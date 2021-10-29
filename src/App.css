@@ -1,0 +1,21 @@
+body {
+  margin: 2%;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  background-color: #888E94;
+  width: 400px;
+  border-radius: 16px;
+  border: 20px solid#383A3D;
+}
+
+.row {
+  display: flex;
+}
+
